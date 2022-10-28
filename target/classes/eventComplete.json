@@ -1,0 +1,18 @@
+{
+  "context": {
+    "tenant": "5c231782-4a6b-44ce-8212-902c39c6ef18",
+    "session": "7fb9ca710d3d065848601b30a55f1ffd103da9aaff313152b668ea3c82c9b22",
+    "event1": "2022-10-27T05:28:00.094Z",
+    "event2": "2022-10-27T05:28:00.089Z",
+    "event3": "2022-10-27T05:28:00.089Z"
+  },
+  "data": [
+    {
+      "user": "$2a$07$pM0Hxp9aKqI63j9u0l6avO5zvTGLSovorrWSoyXKvfyci6xplxOPW",
+      "url": "https://www-n.secure.hsbcnet.com/uims/dl/dsp_authentication",
+      "features": {
+       datos
+      }
+    }
+  ]
+}

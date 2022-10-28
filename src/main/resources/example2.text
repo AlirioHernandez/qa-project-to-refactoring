@@ -1,0 +1,30 @@
+{
+  "id": "102",
+  "name": "Raja Ramesh",
+  "any": object|array|int|string
+}
+#Int
+{
+"id": "102",
+"name": "Raja Ramesh",
+"any": 111
+}
+
+
+#Array
+{
+"id": "102",
+"name": "Raja Ramesh",
+"any": [
+
+]
+}
+
+#Object
+{
+"id": "102",
+"name": "Raja Ramesh",
+"any": {
+"label": ""
+}
+}
